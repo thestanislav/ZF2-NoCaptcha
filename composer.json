@@ -19,11 +19,11 @@
     ],
     "require": {
         "php": "^5.6 || ^7.0",
-        "zendframework/zend-captcha": "2.7.1"
+        "zendframework/zendframework": "^2.4"
     },
     "require-dev": {
-        "zendframework/zend-test": "^2.5",
-        "zendframework/zend-config": "2.6.0"
+        "zendframework/zend-test": "^2.4",
+        "zendframework/zend-config": "2.4"
     },
     "autoload": {
         "psr-0": {
